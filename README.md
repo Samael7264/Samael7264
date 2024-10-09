@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Rahul
-- 👀 I’m interested in Fintech, AI and new products.
-- 🌱 I’m currently learning web development to upskill myself to improve my journey as a product manager.
-- 💞️ I’m looking to collaborate on fintech products or any products that solve real end-consumer problems to improve their life in meaningful ways.
-- 📫 How to reach me: Linkedin is the best way. Linkedin: https://www.linkedin.com/in/rahul164/
-- ⚡ Fun fact: I love watching sci-fi & mythical movies and TV series. I cook and can make Indian, Italian, Mediterranean and Chinese cuisines. I love trying new experiences and learning new things.
+👋 Hi, I’m Rahul!
+
+👀 Passionate about fintech, AI, and exploring innovative products.
+
+🌱 Currently leveling up my web development skills to enrich my journey as a product manager.
+
+💞️ Always open to collaborating on fintech or any product that solves real end-consumer problems—making life simpler and better in meaningful ways.
+
+📫 The best way to reach me is via LinkedIn: linkedin.com/in/rahul164/
+
+⚡ Fun fact: I love diving into sci-fi & mythical movies and TV series. When I'm not watching, you’ll find me cooking up dishes from Indian, Italian, Mediterranean, to Chinese cuisines. I'm all about trying new experiences and learning something new!
+
 
 <!---
 Samael7264/Samael7264 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
